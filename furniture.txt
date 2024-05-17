@@ -1,3 +1,7 @@
 chairs
+<<<<<<< HEAD
 tables
 sofa
+=======
+sofa
+>>>>>>> af99f6719297ec30fff291b67cea71756d1a0127
