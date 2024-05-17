@@ -1,2 +1,3 @@
 chairs
 tables
+sofa
